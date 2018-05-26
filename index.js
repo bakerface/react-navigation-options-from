@@ -1,7 +1,7 @@
 module.exports = function (children) {
   return function (props) {
     var state = props.navigation.state;
-    var routeName = state.routes[state.index];
+    var routeName = state.routes[state.index].routeName;
     var route = children[routeName];
 
     var navigationOptions =

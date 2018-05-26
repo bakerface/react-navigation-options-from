@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-options-from",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get react-navigation options from nested navigators",
   "license": "MIT",
   "author": "Chris Baker <mail.chris.baker@gmail.com>",
