@@ -1,0 +1,24 @@
+{
+  "name": "react-navigation-options-from",
+  "version": "1.0.0",
+  "description": "Get react-navigation options from nested navigators",
+  "license": "MIT",
+  "author": "Chris Baker <mail.chris.baker@gmail.com>",
+  "main": "index.js",
+  "homepage": "https://github.com/bakerface/react-navigation-options-from#readme",
+  "keywords": [
+    "react",
+    "navigation",
+    "option",
+    "from",
+    "nested",
+    "navigator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakerface/react-navigation-options-from.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bakerface/react-navigation-options-from/issues"
+  }
+}
